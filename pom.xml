@@ -90,7 +90,7 @@
     <commons-lang.version>2.6</commons-lang.version>
     <commons-httpclient.version>3.0.1</commons-httpclient.version>
     <commons-io.version>2.4</commons-io.version>
-    <commons-collections.version>3.2.1</commons-collections.version>
+    <commons-collections.version>3.2.2</commons-collections.version>
     <commons-compress.version>1.9</commons-compress.version>
     <hadoop.version>1.2.0</hadoop.version>
     <protobuf.version>2.5.0</protobuf.version>
